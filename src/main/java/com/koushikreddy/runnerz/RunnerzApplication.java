@@ -13,7 +13,6 @@ import org.springframework.web.service.invoker.HttpServiceProxyFactory;
 
 import com.koushikreddy.runnerz.user.User;
 import com.koushikreddy.runnerz.user.UserHttpClient;
-import com.koushikreddy.runnerz.user.UserRestClient;
 
 @SpringBootApplication
 public class RunnerzApplication {
